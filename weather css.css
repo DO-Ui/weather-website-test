@@ -1,0 +1,72 @@
+/*colors used: #C70039 #900C3F #581845 #FFC300*/
+.container{
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;	
+	width: 1300px;
+	font-family: "Ubuntu";
+	background-image: url("images/pattern.png");
+
+}
+.header{
+	background-image: url("images/pattern2.png");
+	color: white;
+	font-family: "Ubuntu";
+        height: 200px;
+	padding: 50px 10px 10px 10px;
+	margin: 0px 0px 0px 0px;  
+}
+.cover{
+	background-color: #70698b;
+	color: white;
+        padding: 10px 0px 10px 0px;
+	margin: 10px 400px 10px 400px;
+	border-radius: 16px;  
+}
+.main{
+	background-color: #545261;
+	margin: 200px 50px 200px 50px;
+	padding: 20px;
+	color: white;
+	border-radius: 16px;
+}
+input{
+	margin: 10px;
+}
+
+.nav{	
+	background-color: #545163;
+	font-family: "Ubuntu";
+	padding: 10px 0px 10px 0px;
+	margin: 0px 0px 10px 0px;  
+}
+button{
+	margin: 25px;
+	height: 50px;
+	width: 500px;
+	background-color: #3f3d4e;
+	color: white;
+	font-size: 20px;
+	font-weight: bold;
+	font-family: "Ubuntu";
+}
+a{
+ 	color: white;
+	margin: 50px;
+	padding: 10px;
+}
+.footer{
+	clear: both;
+	padding: 10px;
+	background-color: #3d3e50;
+	color: white;
+	font-weight: bold;
+	font-size: 20px;
+	text-align: right;
+	border-radius: 16px;
+}
+h4{
+	width: 800px;
+	margin-right: auto;
+	margin-left: auto;
+}
